@@ -3,7 +3,7 @@ Library: discord.js
 
 Library Version: 12
 
-<h3 align="center">REQUIREMENTS</h3>
+<h3 align="left">REQUIREMENTS</h3>
 
 node version 14: <a href="https://nodejs.org/download/release/v14.18.3/">download</a>
 
