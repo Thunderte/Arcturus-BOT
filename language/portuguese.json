@@ -1,0 +1,33 @@
+{
+    "comandouserinfo": {
+        "creditos": "Creditos",
+        "diamantes": "Diamantes",
+        "duckets": "Duckets",
+        "respeitos": "Respeitos",
+        "perfil": "Ver perfil"
+    },
+    "comandohelp": {
+        "comandos": "Comandos",
+        "hall": "hall",
+        "halldesc": "Mostra os mais ricos do hotel!",
+        "ltds": "ltds",
+        "ltdsdesc": "Mostra todos raros disponivéis na loja!",
+        "notícias": "news",
+        "newsdesc": "Mostra as noticias recentes do hotel!",
+        "online": "online",
+        "onlinedesc": "Mostra quantos onlines tem no hotel!",
+        "userinfo": "userinfo",
+        "userinfodesc": "Mostra as informações de algum usuário!",
+        "ping": "ping",
+        "pingdesc": "Mostra a latência do bot!",
+        "help": "help",
+        "helpdesc": "Comandos do BOT!"
+    },
+    "comandohall": {
+        "creditos": "Creditos",
+        "diamantes": "Diamantes",
+        "duckets": "Duckets",
+        "respeitos": "Respeitos",
+        "hall": "Hall da fama"
+    }
+}

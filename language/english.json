@@ -1,0 +1,33 @@
+{
+    "commanduserinfo": {
+        "credits": "Credits",
+        "diamonds": "Diamonds",
+        "respects": "Respects",
+        "duckets": "Duckets",
+        "profile": "View profile"
+    },
+    "commandhall": {
+        "credits": "Credits",
+        "diamonds": "Diamonds",
+        "respects": "Respects",
+        "duckets": "Duckets",
+        "hall": "Hall of Fame"
+    },
+    "commandhelp": {
+        "commands": "Commands",
+        "hall": "hall",
+        "halldesc": "The richest and most famous hotel shows!",
+        "ltds": "ltds",
+        "ltdsdesc": "Show all available LTD rares in the store!",
+        "news": "news",
+        "newsdesc": "Show the hotel news!",
+        "online": "online",
+        "onlinedesc": "Show the hotel's online!",
+        "userinfo": "userinfo",
+        "userinfodesc": "Shows the information of some user!",
+        "ping": "ping",
+        "pingdesc": "Shows the latency of the bot",
+        "help": "help",
+        "helpdesc": "Comandos do BOT!"
+    }
+}
