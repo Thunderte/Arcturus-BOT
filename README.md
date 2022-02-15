@@ -3,13 +3,13 @@ Library: discord.js
 
 Library Version: 12
 
-requirements:
+<h3 align="center">REQUIREMENTS</h3>
 
 node version 14: <a href="https://nodejs.org/download/release/v14.18.3/">download</a>
 
 Database
 
-How to use:
+<h3 align="center">HOW TO USE</h3>
 
 Run npm install file
 
@@ -22,4 +22,4 @@ After the settings, just click run and your BOT will be online :)
 
 If you have any questions, visit: https://discord.gg/YDmbap49bJ
 
-Credits: Thunder and Habbos Development!
+Credits: Thunder and Habbos Development by Kaio#1111
