@@ -20,6 +20,8 @@ Open the configuration.json file and insert the way you want your BOT!
 
 After the settings, just click run and your BOT will be online :)
 
+<img src="https://i.imgur.com/vrkoaTA.gif" align="center" />
+
 If you have any questions, visit: https://discord.gg/YDmbap49bJ
 
 Credits: Thunderte#1057 and Habbos Development by Kaio#1111
