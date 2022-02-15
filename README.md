@@ -22,4 +22,4 @@ After the settings, just click run and your BOT will be online :)
 
 If you have any questions, visit: https://discord.gg/YDmbap49bJ
 
-Credits: Thunder and Habbos Development by Kaio#1111
+Credits: Thunderte#1057 and Habbos Development by Kaio#1111
