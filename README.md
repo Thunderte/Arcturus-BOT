@@ -9,7 +9,7 @@ node version 14: <a href="https://nodejs.org/download/release/v14.18.3/">downloa
 
 Database
 
-<h3 align="center">HOW TO USE</h3>
+<h3 align="left">HOW TO USE</h3>
 
 Run npm install file
 
