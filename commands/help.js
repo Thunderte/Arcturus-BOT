@@ -20,7 +20,7 @@ var connection = mysql.createConnection({
         .addField(english.commandhelp.online, english.commandhelp.onlinedesc, true)
         .addField(english.commandhelp.hall, english.commandhelp.halldesc, true)
         .addField(english.commandhelp.ltds, english.commandhelp.ltdsdesc, true)
-        .addField(english.commandhelp.noticias, english.commandhelp.newsdesc, true)
+        .addField(english.commandhelp.notícias, english.commandhelp.newsdesc, true)
         .addField(english.commandhelp.userinfo, english.commandhelp.userinfodesc, true)
         .addField(english.commandhelp.help, english.commandhelp.helpdesc, true)
         .setColor(config.config.colorembeds)
